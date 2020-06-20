@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Nuke.Common" Version="0.25.0-alpha0292" />
+      <PackageReference Include="Octokit.Reactive" Version="0.47.0" />
+    </ItemGroup>
+
+</Project>
